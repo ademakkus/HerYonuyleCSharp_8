@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HYCS8.100.ProgramConstructor/1.0.0": {
+        "runtime": {
+          "HYCS8.100.ProgramConstructor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HYCS8.100.ProgramConstructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

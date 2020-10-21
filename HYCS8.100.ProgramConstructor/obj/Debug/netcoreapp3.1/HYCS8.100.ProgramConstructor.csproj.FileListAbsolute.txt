@@ -1,0 +1,12 @@
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.100.ProgramConstructor\bin\Debug\netcoreapp3.1\HYCS8.100.ProgramConstructor.exe
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.100.ProgramConstructor\bin\Debug\netcoreapp3.1\HYCS8.100.ProgramConstructor.deps.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.100.ProgramConstructor\bin\Debug\netcoreapp3.1\HYCS8.100.ProgramConstructor.runtimeconfig.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.100.ProgramConstructor\bin\Debug\netcoreapp3.1\HYCS8.100.ProgramConstructor.runtimeconfig.dev.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.100.ProgramConstructor\bin\Debug\netcoreapp3.1\HYCS8.100.ProgramConstructor.dll
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.100.ProgramConstructor\bin\Debug\netcoreapp3.1\HYCS8.100.ProgramConstructor.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.100.ProgramConstructor\obj\Debug\netcoreapp3.1\HYCS8.100.ProgramConstructor.AssemblyInfoInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.100.ProgramConstructor\obj\Debug\netcoreapp3.1\HYCS8.100.ProgramConstructor.AssemblyInfo.cs
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.100.ProgramConstructor\obj\Debug\netcoreapp3.1\HYCS8.100.ProgramConstructor.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.100.ProgramConstructor\obj\Debug\netcoreapp3.1\HYCS8.100.ProgramConstructor.dll
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.100.ProgramConstructor\obj\Debug\netcoreapp3.1\HYCS8.100.ProgramConstructor.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.100.ProgramConstructor\obj\Debug\netcoreapp3.1\HYCS8.100.ProgramConstructor.genruntimeconfig.cache

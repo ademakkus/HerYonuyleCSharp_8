@@ -1,0 +1,13 @@
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.HelloWorld\bin\Debug\netcoreapp3.1\HYCS8.HelloWorld.exe
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.HelloWorld\bin\Debug\netcoreapp3.1\HYCS8.HelloWorld.deps.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.HelloWorld\bin\Debug\netcoreapp3.1\HYCS8.HelloWorld.runtimeconfig.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.HelloWorld\bin\Debug\netcoreapp3.1\HYCS8.HelloWorld.runtimeconfig.dev.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.HelloWorld\bin\Debug\netcoreapp3.1\HYCS8.HelloWorld.dll
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.HelloWorld\bin\Debug\netcoreapp3.1\HYCS8.HelloWorld.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.HelloWorld\obj\Debug\netcoreapp3.1\HYCS8.HelloWorld.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.HelloWorld\obj\Debug\netcoreapp3.1\HYCS8.HelloWorld.AssemblyInfoInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.HelloWorld\obj\Debug\netcoreapp3.1\HYCS8.HelloWorld.AssemblyInfo.cs
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.HelloWorld\obj\Debug\netcoreapp3.1\HYCS8.HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.HelloWorld\obj\Debug\netcoreapp3.1\HYCS8.HelloWorld.dll
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.HelloWorld\obj\Debug\netcoreapp3.1\HYCS8.HelloWorld.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.HelloWorld\obj\Debug\netcoreapp3.1\HYCS8.HelloWorld.genruntimeconfig.cache

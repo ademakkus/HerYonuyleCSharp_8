@@ -1,0 +1,12 @@
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.93.SetCursorPosition\bin\Debug\netcoreapp3.1\HYCS8.93.SetCursorPosition.exe
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.93.SetCursorPosition\bin\Debug\netcoreapp3.1\HYCS8.93.SetCursorPosition.deps.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.93.SetCursorPosition\bin\Debug\netcoreapp3.1\HYCS8.93.SetCursorPosition.runtimeconfig.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.93.SetCursorPosition\bin\Debug\netcoreapp3.1\HYCS8.93.SetCursorPosition.runtimeconfig.dev.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.93.SetCursorPosition\bin\Debug\netcoreapp3.1\HYCS8.93.SetCursorPosition.dll
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.93.SetCursorPosition\bin\Debug\netcoreapp3.1\HYCS8.93.SetCursorPosition.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.93.SetCursorPosition\obj\Debug\netcoreapp3.1\HYCS8.93.SetCursorPosition.AssemblyInfoInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.93.SetCursorPosition\obj\Debug\netcoreapp3.1\HYCS8.93.SetCursorPosition.AssemblyInfo.cs
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.93.SetCursorPosition\obj\Debug\netcoreapp3.1\HYCS8.93.SetCursorPosition.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.93.SetCursorPosition\obj\Debug\netcoreapp3.1\HYCS8.93.SetCursorPosition.dll
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.93.SetCursorPosition\obj\Debug\netcoreapp3.1\HYCS8.93.SetCursorPosition.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.93.SetCursorPosition\obj\Debug\netcoreapp3.1\HYCS8.93.SetCursorPosition.genruntimeconfig.cache
