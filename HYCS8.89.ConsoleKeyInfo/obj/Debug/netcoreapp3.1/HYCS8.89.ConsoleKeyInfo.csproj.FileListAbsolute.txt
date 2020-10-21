@@ -1,0 +1,12 @@
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.89.ConsoleKeyInfo\bin\Debug\netcoreapp3.1\HYCS8.89.ConsoleKeyInfo.exe
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.89.ConsoleKeyInfo\bin\Debug\netcoreapp3.1\HYCS8.89.ConsoleKeyInfo.deps.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.89.ConsoleKeyInfo\bin\Debug\netcoreapp3.1\HYCS8.89.ConsoleKeyInfo.runtimeconfig.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.89.ConsoleKeyInfo\bin\Debug\netcoreapp3.1\HYCS8.89.ConsoleKeyInfo.runtimeconfig.dev.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.89.ConsoleKeyInfo\bin\Debug\netcoreapp3.1\HYCS8.89.ConsoleKeyInfo.dll
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.89.ConsoleKeyInfo\bin\Debug\netcoreapp3.1\HYCS8.89.ConsoleKeyInfo.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.89.ConsoleKeyInfo\obj\Debug\netcoreapp3.1\HYCS8.89.ConsoleKeyInfo.AssemblyInfoInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.89.ConsoleKeyInfo\obj\Debug\netcoreapp3.1\HYCS8.89.ConsoleKeyInfo.AssemblyInfo.cs
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.89.ConsoleKeyInfo\obj\Debug\netcoreapp3.1\HYCS8.89.ConsoleKeyInfo.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.89.ConsoleKeyInfo\obj\Debug\netcoreapp3.1\HYCS8.89.ConsoleKeyInfo.dll
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.89.ConsoleKeyInfo\obj\Debug\netcoreapp3.1\HYCS8.89.ConsoleKeyInfo.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.89.ConsoleKeyInfo\obj\Debug\netcoreapp3.1\HYCS8.89.ConsoleKeyInfo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.85.FormattingOutput\bin\Debug\netcoreapp3.1\HYCS8.85.FormattingOutput.exe
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.85.FormattingOutput\bin\Debug\netcoreapp3.1\HYCS8.85.FormattingOutput.deps.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.85.FormattingOutput\bin\Debug\netcoreapp3.1\HYCS8.85.FormattingOutput.runtimeconfig.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.85.FormattingOutput\bin\Debug\netcoreapp3.1\HYCS8.85.FormattingOutput.runtimeconfig.dev.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.85.FormattingOutput\bin\Debug\netcoreapp3.1\HYCS8.85.FormattingOutput.dll
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.85.FormattingOutput\bin\Debug\netcoreapp3.1\HYCS8.85.FormattingOutput.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.85.FormattingOutput\obj\Debug\netcoreapp3.1\HYCS8.85.FormattingOutput.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.85.FormattingOutput\obj\Debug\netcoreapp3.1\HYCS8.85.FormattingOutput.AssemblyInfoInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.85.FormattingOutput\obj\Debug\netcoreapp3.1\HYCS8.85.FormattingOutput.AssemblyInfo.cs
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.85.FormattingOutput\obj\Debug\netcoreapp3.1\HYCS8.85.FormattingOutput.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.85.FormattingOutput\obj\Debug\netcoreapp3.1\HYCS8.85.FormattingOutput.dll
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.85.FormattingOutput\obj\Debug\netcoreapp3.1\HYCS8.85.FormattingOutput.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.85.FormattingOutput\obj\Debug\netcoreapp3.1\HYCS8.85.FormattingOutput.genruntimeconfig.cache
