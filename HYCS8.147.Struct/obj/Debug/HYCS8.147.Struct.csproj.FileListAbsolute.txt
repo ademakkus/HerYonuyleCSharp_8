@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.147.Struct\bin\Debug\HYCS8.147.Struct.exe.config
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.147.Struct\bin\Debug\HYCS8.147.Struct.exe
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.147.Struct\bin\Debug\HYCS8.147.Struct.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.147.Struct\obj\Debug\HYCS8.147.Struct.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.147.Struct\obj\Debug\HYCS8._147.Struct.Form1.resources
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.147.Struct\obj\Debug\HYCS8._147.Struct.Properties.Resources.resources
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.147.Struct\obj\Debug\HYCS8.147.Struct.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.147.Struct\obj\Debug\HYCS8.147.Struct.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.147.Struct\obj\Debug\HYCS8.147.Struct.exe
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.147.Struct\obj\Debug\HYCS8.147.Struct.pdb

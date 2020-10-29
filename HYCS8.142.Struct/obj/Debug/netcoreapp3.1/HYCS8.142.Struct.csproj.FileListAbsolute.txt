@@ -1,0 +1,13 @@
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.142.Struct\bin\Debug\netcoreapp3.1\HYCS8.142.Struct.exe
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.142.Struct\bin\Debug\netcoreapp3.1\HYCS8.142.Struct.deps.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.142.Struct\bin\Debug\netcoreapp3.1\HYCS8.142.Struct.runtimeconfig.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.142.Struct\bin\Debug\netcoreapp3.1\HYCS8.142.Struct.runtimeconfig.dev.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.142.Struct\bin\Debug\netcoreapp3.1\HYCS8.142.Struct.dll
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.142.Struct\bin\Debug\netcoreapp3.1\HYCS8.142.Struct.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.142.Struct\obj\Debug\netcoreapp3.1\HYCS8.142.Struct.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.142.Struct\obj\Debug\netcoreapp3.1\HYCS8.142.Struct.AssemblyInfoInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.142.Struct\obj\Debug\netcoreapp3.1\HYCS8.142.Struct.AssemblyInfo.cs
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.142.Struct\obj\Debug\netcoreapp3.1\HYCS8.142.Struct.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.142.Struct\obj\Debug\netcoreapp3.1\HYCS8.142.Struct.dll
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.142.Struct\obj\Debug\netcoreapp3.1\HYCS8.142.Struct.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.142.Struct\obj\Debug\netcoreapp3.1\HYCS8.142.Struct.genruntimeconfig.cache
