@@ -1,0 +1,12 @@
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.120.Ref\bin\Debug\netcoreapp3.1\HYCS8.120.Ref.exe
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.120.Ref\bin\Debug\netcoreapp3.1\HYCS8.120.Ref.deps.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.120.Ref\bin\Debug\netcoreapp3.1\HYCS8.120.Ref.runtimeconfig.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.120.Ref\bin\Debug\netcoreapp3.1\HYCS8.120.Ref.runtimeconfig.dev.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.120.Ref\bin\Debug\netcoreapp3.1\HYCS8.120.Ref.dll
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.120.Ref\bin\Debug\netcoreapp3.1\HYCS8.120.Ref.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.120.Ref\obj\Debug\netcoreapp3.1\HYCS8.120.Ref.AssemblyInfoInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.120.Ref\obj\Debug\netcoreapp3.1\HYCS8.120.Ref.AssemblyInfo.cs
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.120.Ref\obj\Debug\netcoreapp3.1\HYCS8.120.Ref.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.120.Ref\obj\Debug\netcoreapp3.1\HYCS8.120.Ref.dll
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.120.Ref\obj\Debug\netcoreapp3.1\HYCS8.120.Ref.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.120.Ref\obj\Debug\netcoreapp3.1\HYCS8.120.Ref.genruntimeconfig.cache
