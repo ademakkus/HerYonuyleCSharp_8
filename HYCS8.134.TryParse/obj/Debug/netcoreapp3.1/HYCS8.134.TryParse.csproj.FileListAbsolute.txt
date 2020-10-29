@@ -1,0 +1,12 @@
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.134.TryParse\bin\Debug\netcoreapp3.1\HYCS8.134.TryParse.exe
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.134.TryParse\bin\Debug\netcoreapp3.1\HYCS8.134.TryParse.deps.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.134.TryParse\bin\Debug\netcoreapp3.1\HYCS8.134.TryParse.runtimeconfig.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.134.TryParse\bin\Debug\netcoreapp3.1\HYCS8.134.TryParse.runtimeconfig.dev.json
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.134.TryParse\bin\Debug\netcoreapp3.1\HYCS8.134.TryParse.dll
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.134.TryParse\bin\Debug\netcoreapp3.1\HYCS8.134.TryParse.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.134.TryParse\obj\Debug\netcoreapp3.1\HYCS8.134.TryParse.AssemblyInfoInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.134.TryParse\obj\Debug\netcoreapp3.1\HYCS8.134.TryParse.AssemblyInfo.cs
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.134.TryParse\obj\Debug\netcoreapp3.1\HYCS8.134.TryParse.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.134.TryParse\obj\Debug\netcoreapp3.1\HYCS8.134.TryParse.dll
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.134.TryParse\obj\Debug\netcoreapp3.1\HYCS8.134.TryParse.pdb
+C:\Users\mypc\source\repos\HerYonuyleCSharp_8\HYCS8.134.TryParse\obj\Debug\netcoreapp3.1\HYCS8.134.TryParse.genruntimeconfig.cache
